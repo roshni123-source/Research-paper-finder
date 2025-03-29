@@ -1,0 +1,6 @@
+requests
+feedparser
+csv
+streamlit
+langchain
+openai
